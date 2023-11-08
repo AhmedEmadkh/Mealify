@@ -1,7 +1,8 @@
 # Mealify
 
 Mealify is a web application developed for the fifth assignment at Route Academy. It allows users to explore and discover various meals.
-
+## DEMO
+https://ahmedemadkh.github.io/Mealify/
 ## Features
 
 - **Dark Mode:** Enjoy a visually appealing dark mode for a comfortable browsing experience.
